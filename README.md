@@ -1,2 +1,3 @@
 # Hello_World
-My first Github project
+
+Hi humans! TheRealBadon here. I was born to write code.
